@@ -1,0 +1,573 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "EA4E5CF2CCB336CF78A7F4C41617614B1D4DC1C7",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A7ECE2F6D798CA99B1ACA2CC9108FC6FBD35080D",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EC959F2456741D5B4EB94C92E3060FFA5FBE800B",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "7CC2CCA2A20564DF4A428AE5FDDC8EC9808460AF",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "527A5E271EA779C4C5B4F836640CF077C512CF4F",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial",
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "024B68AF2039E740F3B57D688E2021403B994D2F",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "51B976D5C2FF26FBB8879EA61D316EC69C3758B3",
+			"Assets": [
+				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8BE5EEBE51AFB34F8AC5E973E703FDE74A1A9770",
+			"Assets": [
+				"/OculusVR/Materials/touchController_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "F65F85D879C59DE74A44ABA1E3686021CDE2F7F1",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_OpaqueColoredMaterial",
+				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color"
+			]
+		},
+		{
+			"ShaderMapHash": "5C6DD9F894B2CE11AE50F800DE71620D51DBA1AD",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_ChromaKey"
+			]
+		},
+		{
+			"ShaderMapHash": "A4142814D401F07EEB5A04BB86A0B7AF72056513",
+			"Assets": [
+				"/OpenXR/Devices/GoogleDaydream/MI_GoogleDaydream",
+				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality",
+				"/OpenXR/Devices/OculusTouch/MI_OculusTouch",
+				"/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex",
+				"/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2",
+				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3"
+			]
+		},
+		{
+			"ShaderMapHash": "B056F038F358D0C72894A94A9439A3201C65B69D",
+			"Assets": [
+				"/OpenXR/Devices/ValveIndex/Right/MI_right_ValveIndex"
+			]
+		},
+		{
+			"ShaderMapHash": "D649435586A99A01398B1660FE397B80B2CC49C3",
+			"Assets": [
+				"/OpenXR/Devices/M_XRController"
+			]
+		},
+		{
+			"ShaderMapHash": "97C394AF6FD62CAAA7990199E75B8415B3632033",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "8753B73EE89DC8EA289349BEF7E65F4A8EEAAC91",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "59E2E315E8C306D33E9BB97E992C9F094C7F4590",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "D06D5317D58140CC733596F20777009DA291F3EA",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/WireframeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C932F3CB03B8C69F07907F4F7BA4FC17D3287B23",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/VertexColorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E27B47D85633861825FB21AC0C70746EB485E29F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6C385253A3461C65AB04A6CF0F72BB6D91B77816",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2756EDE3643078580AEC0C6943006EDE4C6FC511",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A625E34A9C383F59AA52DF133FC9D5B976192B35",
+			"Assets": [
+				"/OculusVR/Materials/PokeAHoleMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2B437F1BFAD7CEB5F6BC11F9EC64F57EA28905AB",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "94B47D95E361CF90FEAEC4B92B2C2AE2B0435CC4",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C748F8C0A4F58A29231B0681D0AAB71D398C516A",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DFD33ECC50473C9FCCA389A7562DCD082AD16638",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "AD84A5ADE38233FD6BB9D72862C29F38CC92D532",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "BB602290F7882BD0E82D5FA875463343536A7DA9",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "A0A595291FD9A9650C198B54AD97CB12D700B2C1",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "30578DBBF57935CF95498759271DABDC63557702",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+				"/Engine/EngineMaterials/Widget3DPassThrough"
+			]
+		},
+		{
+			"ShaderMapHash": "5B068B6F9CF49AD2464BD7AFF7E47C9439B72101",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "B419E4E7F29B8832F37AD7467E2998E62D3620A7",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/HanZiCombat/Models/lambert1"
+			]
+		},
+		{
+			"ShaderMapHash": "C6CBDBFE7459F69969DC0849721E58D16AE78BF6",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "B1C08E4C439F0DD6407B44A684787869176168D4",
+			"Assets": [
+				"/Engine/EngineMaterials/BaseFlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1B7226A2820B1FEE6DD6CC2070549D59A03334D9",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "04B0E0DD68AAA4565564B262F90664694369261F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B91C7D5C55994D044E14E4A4A323BAB273838184",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "237B206BB7129D3670CABF026A32630510F9829C",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2535A016F7EB1F316AD6391CD30C4517E7AADFA4",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CDE8E92CAA3AA156EB0F50C78613B62046E0FDCB",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "6D1095BDD5CD00595A53B55616D31F70F5028747",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultRIbbonMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4EB6A03CA5E1E45EB23B6BF349CE630886691F64",
+			"Assets": [
+				"/Game/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient"
+			]
+		},
+		{
+			"ShaderMapHash": "0F45A0004A1B3FDD90EB3BA29E8B9469C428F100",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_TeleportNoise"
+			]
+		},
+		{
+			"ShaderMapHash": "E6759ED63D6FCCC9E17F263A1798B565B26D74DC",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_TeleportCylinder"
+			]
+		},
+		{
+			"ShaderMapHash": "4FEE26C7B7320795DB3CCBF4C01E3A1076EB64DD",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_VRCursor"
+			]
+		},
+		{
+			"ShaderMapHash": "1FB9B5097FD93340B15EF46BE56C6A68E1FB9DC9",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "7DC743C15DD74A94DEE501999CA27387DA447302",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3D905F256BA2FA75ABCDE951878A694A35D0E56A",
+			"Assets": [
+				"/Engine/VREditor/BasicMeshes/M_Floor_01"
+			]
+		},
+		{
+			"ShaderMapHash": "C878E11E35D99B7C67E1C2A3A6191643BBFD93D9",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_GridRotation",
+				"/Game/VRTemplate/Materials/MI_Grid_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "63A771CB7434558D26FDCDE67140A1AF1F26F9EB",
+			"Assets": [
+				"/Game/VRTemplate/Materials/MI_Grid_Accent"
+			]
+		},
+		{
+			"ShaderMapHash": "6A60A76F417AEF22F0F8AC0C874796ACA12FF4B6",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C1151CE4AC285B4CF1C3A2BB227CAFD7DCE37F39",
+			"Assets": [
+				"/Engine/EditorMaterials/MatineeCam_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "28DB9EC9B636EDB647C91E4B5EF81A69B155422B",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_Projectile"
+			]
+		},
+		{
+			"ShaderMapHash": "81C528275EECF112E4AF837BD90A4002CE540532",
+			"Assets": [
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Dan2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Dan1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Zhui2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Zhui1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Yu2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Yu1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Yong2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Yong1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Xiao2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Xiao1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Wu2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Wu1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Wang2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Wang1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Ting2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Ting1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Ti2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Ti1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Sui2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Sui1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Shuo2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Shuo1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Pu2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Pu1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Lin2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Lin1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Kui2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Kui1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Ju2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Ju1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Jing2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Jing1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Jian2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Jian1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Ji2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Ji1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Huang2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Huang1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Huan1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Gong4Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Gong3Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Gong2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Gong1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Fu4Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Fu3Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Fu2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Fu1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Ci2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Ci1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Chui2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Chui1mATERIAL",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Bu2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Bu1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Bi2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Huan2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Bi1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Ban2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/Ban1Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/An2Material",
+				"/Game/HanZiCombat/Materials/Game2Material/Target/An1Material",
+				"/Game/HanZiCombat/Materials/Game1Material/Tu/TuMaterial_6",
+				"/Game/HanZiCombat/Materials/Game1Material/Tu/TuMaterial_5",
+				"/Game/HanZiCombat/Materials/Game1Material/Tu/TuMaterial_4",
+				"/Game/HanZiCombat/Materials/Game1Material/Tu/TuMaterial_3",
+				"/Game/HanZiCombat/Materials/Game1Material/Tu/TuMaterial_20",
+				"/Game/HanZiCombat/Materials/Game1Material/Tu/TuMaterial_2",
+				"/Game/HanZiCombat/Materials/Game1Material/Tu/TuMaterial_19",
+				"/Game/HanZiCombat/Materials/Game1Material/Tu/TuMaterial_18",
+				"/Game/HanZiCombat/Materials/Game1Material/Tu/TuMaterial_17",
+				"/Game/HanZiCombat/Materials/Game1Material/Tu/TuMaterial_16",
+				"/Game/HanZiCombat/Materials/Game1Material/Tu/TuMaterial_15",
+				"/Game/HanZiCombat/Materials/Game1Material/Tu/TuMaterial_14",
+				"/Game/HanZiCombat/Materials/Game1Material/Tu/TuMaterial_13",
+				"/Game/HanZiCombat/Materials/Game1Material/Tu/TuMaterial_12",
+				"/Game/HanZiCombat/Materials/Game1Material/Tu/TuMaterial_11",
+				"/Game/HanZiCombat/Materials/Game1Material/Tu/TuMaterial_10",
+				"/Game/HanZiCombat/Materials/Game1Material/Tu/TuMaterial_1",
+				"/Game/HanZiCombat/Materials/Game1Material/Shui/ShuiMaterial_7",
+				"/Game/HanZiCombat/Materials/Game1Material/Shui/ShuiMaterial_3",
+				"/Game/HanZiCombat/Materials/Game1Material/Shui/ShuiMaterial_2",
+				"/Game/HanZiCombat/Materials/Game1Material/Shui/ShuiMaterial_1",
+				"/Game/HanZiCombat/Materials/Game1Material/Shi/ShiMaterial_9",
+				"/Game/HanZiCombat/Materials/Game1Material/Shi/ShiMaterial_8",
+				"/Game/HanZiCombat/Materials/Game1Material/Shi/ShiMaterial_7",
+				"/Game/HanZiCombat/Materials/Game1Material/Shi/ShiMaterial_6",
+				"/Game/HanZiCombat/Materials/Game1Material/Shi/ShiMaterial_5",
+				"/Game/HanZiCombat/Materials/Game1Material/Shi/ShiMaterial_4",
+				"/Game/HanZiCombat/Materials/Game1Material/Shi/ShiMaterial_3",
+				"/Game/HanZiCombat/Materials/Game1Material/Shi/ShiMaterial_20",
+				"/Game/HanZiCombat/Materials/Game1Material/Shi/ShiMaterial_2",
+				"/Game/HanZiCombat/Materials/Game1Material/Shi/ShiMaterial_19",
+				"/Game/HanZiCombat/Materials/Game1Material/Shi/ShiMaterial_18",
+				"/Game/HanZiCombat/Materials/Game1Material/Shi/ShiMaterial_17",
+				"/Game/HanZiCombat/Materials/Game1Material/Shi/ShiMaterial_16",
+				"/Game/HanZiCombat/Materials/Game1Material/Shi/ShiMaterial_15",
+				"/Game/HanZiCombat/Materials/Game1Material/Shi/ShiMaterial_14",
+				"/Game/HanZiCombat/Materials/Game1Material/Shi/ShiMaterial_13",
+				"/Game/HanZiCombat/Materials/Game1Material/Shi/ShiMaterial_12",
+				"/Game/HanZiCombat/Materials/Game1Material/Shi/ShiMaterial_10",
+				"/Game/HanZiCombat/Materials/Game1Material/Shi/ShiMaterial_1",
+				"/Game/HanZiCombat/Materials/Game1Material/Mu/MuMaterial_9",
+				"/Game/HanZiCombat/Materials/Game1Material/Mu/MuMaterial_8",
+				"/Game/HanZiCombat/Materials/Game1Material/Mu/MuMaterial_7",
+				"/Game/HanZiCombat/Materials/Game1Material/Mu/MuMaterial_6",
+				"/Game/HanZiCombat/Materials/Game1Material/Mu/MuMaterial_5",
+				"/Game/HanZiCombat/Materials/Game1Material/Mu/MuMaterial_4",
+				"/Game/HanZiCombat/Materials/Game1Material/Mu/MuMaterial_3",
+				"/Game/HanZiCombat/Materials/Game1Material/Mu/MuMaterial_20",
+				"/Game/HanZiCombat/Materials/Game1Material/Mu/MuMaterial_2",
+				"/Game/HanZiCombat/Materials/Game1Material/Mu/MuMaterial_19",
+				"/Game/HanZiCombat/Materials/Game1Material/Mu/MuMaterial_18",
+				"/Game/HanZiCombat/Materials/Game1Material/Mu/MuMaterial_17",
+				"/Game/HanZiCombat/Materials/Game1Material/Mu/MuMaterial_16",
+				"/Game/HanZiCombat/Materials/Game1Material/Mu/MuMaterial_15",
+				"/Game/HanZiCombat/Materials/Game1Material/Mu/MuMaterial_14",
+				"/Game/HanZiCombat/Materials/Game1Material/Mu/MuMaterial_13",
+				"/Game/HanZiCombat/Materials/Game1Material/Shi/ShiMaterial_11",
+				"/Game/HanZiCombat/Materials/Game1Material/Mu/MuMaterial_12",
+				"/Game/HanZiCombat/Materials/Game1Material/Mu/MuMaterial_11",
+				"/Game/HanZiCombat/Materials/Game1Material/Mu/MuMaterial_10",
+				"/Game/HanZiCombat/Materials/Game1Material/Mu/MuMaterial_1",
+				"/Game/HanZiCombat/Materials/Game1Material/Yu/YuMaterial_9",
+				"/Game/HanZiCombat/Materials/Game1Material/Yu/YuMaterial_8",
+				"/Game/HanZiCombat/Materials/Game1Material/Yu/YuMaterial_7",
+				"/Game/HanZiCombat/Materials/Game1Material/Yu/YuMaterial_6",
+				"/Game/HanZiCombat/Materials/Game1Material/Yu/YuMaterial_5",
+				"/Game/HanZiCombat/Materials/Game1Material/Yu/YuMaterial_4",
+				"/Game/HanZiCombat/Materials/Game1Material/Yu/YuMaterial_3",
+				"/Game/HanZiCombat/Materials/Game1Material/Yu/YuMaterial_20",
+				"/Game/HanZiCombat/Materials/Game1Material/Yu/YuMaterial_2",
+				"/Game/HanZiCombat/Materials/Game1Material/Yu/YuMaterial_19",
+				"/Game/HanZiCombat/Materials/Game1Material/Yu/YuMaterial_18",
+				"/Game/HanZiCombat/Materials/Game1Material/Yu/YuMaterial_17",
+				"/Game/HanZiCombat/Materials/Game1Material/Yu/YuMaterial_16",
+				"/Game/HanZiCombat/Materials/Game1Material/Yu/YuMaterial_15",
+				"/Game/HanZiCombat/Materials/Game1Material/Yu/YuMaterial_14",
+				"/Game/HanZiCombat/Materials/Game1Material/Yu/YuMaterial_13",
+				"/Game/HanZiCombat/Materials/Game1Material/Yu/YuMaterial_12",
+				"/Game/HanZiCombat/Materials/Game1Material/Yu/YuMaterial_11",
+				"/Game/HanZiCombat/Materials/Game1Material/Yu/YuMaterial_10",
+				"/Game/HanZiCombat/Materials/Game1Material/Yu/YuMaterial_1",
+				"/Game/HanZiCombat/Materials/Game1Material/Tu/TuMaterial_9",
+				"/Game/HanZiCombat/Materials/Game1Material/Tu/TuMaterial_8",
+				"/Game/HanZiCombat/Materials/Game1Material/Tu/TuMaterial_7"
+			]
+		},
+		{
+			"ShaderMapHash": "D9A47C95E84DE7CB3FF09F49CBC2249CF98E0521",
+			"Assets": [
+				"/Game/FPWeapon/Materials/M_FPGun"
+			]
+		},
+		{
+			"ShaderMapHash": "183C70F5F8CE13B15BBB079485537446A513770F",
+			"Assets": [
+				"/Game/Geometry/Meshes/CubeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EEB27B92877454F2DC229B374042257B51D6EBEF",
+			"Assets": [
+				"/Game/HanZiCombat/Materials/RoomMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E3343DF881502A8C372CD86BAB06B332E9CB4405",
+			"Assets": [
+				"/Game/HanZiCombat/Materials/BlueMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C61FE02AB4CA8A679A09537E25839DE658783A1B",
+			"Assets": [
+				"/Game/HanZiCombat/Materials/ChoiceDeskMaterial",
+				"/Game/HanZiCombat/Materials/Game2Material/FenceMaterial",
+				"/Game/HanZiCombat/Materials/Game2Material/Game2HouseMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9CF2B228AEFA0196F912D0F23F0A235B814FC4A8",
+			"Assets": [
+				"/AnimationSharing/AnimSharingBase"
+			]
+		},
+		{
+			"ShaderMapHash": "25AE220BF50F7296B0C8587CEC2C5BA7C7A9F9DD",
+			"Assets": [
+				"/Game/HanZiCombat/Materials/RedButtonMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F608D5C352B557CC6B087B8C8F92A7E52FA11421",
+			"Assets": [
+				"/Game/HanZiCombat/Materials/GreenButtonMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "824D2D6C8E8FD321CAF1E222E2112024B5D9A20C",
+			"Assets": [
+				"/Game/HanZiCombat/Materials/BlackMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3A0AF85A5FB5B5A17C5BB3C8A1053082026EEE77",
+			"Assets": [
+				"/Game/HanZiCombat/Materials/Game1Material/Shui/ShuiMaterial_9",
+				"/Game/HanZiCombat/Materials/Game1Material/Shui/ShuiMaterial_8",
+				"/Game/HanZiCombat/Materials/Game1Material/Shui/ShuiMaterial_6",
+				"/Game/HanZiCombat/Materials/Game1Material/Shui/ShuiMaterial_5",
+				"/Game/HanZiCombat/Materials/Game1Material/Shui/ShuiMaterial_4",
+				"/Game/HanZiCombat/Materials/Game1Material/Shui/ShuiMaterial_20",
+				"/Game/HanZiCombat/Materials/Game1Material/Shui/ShuiMaterial_19",
+				"/Game/HanZiCombat/Materials/Game1Material/Shui/ShuiMaterial_18",
+				"/Game/HanZiCombat/Materials/Game1Material/Shui/ShuiMaterial_17",
+				"/Game/HanZiCombat/Materials/Game1Material/Shui/ShuiMaterial_16",
+				"/Game/HanZiCombat/Materials/Game1Material/Shui/ShuiMaterial_15",
+				"/Game/HanZiCombat/Materials/Game1Material/Shui/ShuiMaterial_14",
+				"/Game/HanZiCombat/Materials/Game1Material/Shui/ShuiMaterial_13",
+				"/Game/HanZiCombat/Materials/Game1Material/Shui/ShuiMaterial_12",
+				"/Game/HanZiCombat/Materials/Game1Material/Shui/ShuiMaterial_11",
+				"/Game/HanZiCombat/Materials/Game1Material/Shui/ShuiMaterial_10",
+				"/Game/HanZiCombat/Materials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F2307DD4604FB576D288DC9A725EC6D0CC415022",
+			"Assets": [
+				"/Game/HanZiCombat/Materials/NewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0970F255F39467F209B378A519F41275C3B3B448",
+			"Assets": [
+				"/Game/HanZiCombat/Materials/GreyMaterial"
+			]
+		}
+	]
+}
